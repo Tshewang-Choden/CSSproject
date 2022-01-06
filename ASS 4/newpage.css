@@ -1,0 +1,40 @@
+body{
+    background-image: linear-gradient(45deg,rgba(255,255,255,0.1),rgba(255,255,255,0.3)),url('https://live.staticflickr.com/5299/5470398751_8a59befed7_b.jpg');
+    background-size: cover;
+}
+
+h1{
+    text-align: center;
+    color:red;
+    
+}
+
+nav{
+   border:2px solid lightblue;
+    background-color: cornflowerblue;
+    width:100%;
+    height:15px;
+    padding:40px;
+}
+    
+a{
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    
+    
+}
+    h2{
+        color: darkblue;
+        font-family: monospace;
+        font-weight: 900;
+        
+}
+h3{
+    color:darkred;
+    text-align: center;
+    font-family: serif;
+    
+}
+                
+        

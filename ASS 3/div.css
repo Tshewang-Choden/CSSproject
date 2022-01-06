@@ -1,0 +1,61 @@
+nav{
+    {
+   border:2px solid lightblue;
+    background-color: lightblue;
+    width:100%;
+    height:15px;
+    padding:40px;
+}
+    
+}
+a{
+        text-decoration:none;
+        text-emphasis-color: white;
+
+    }
+
+    
+body{
+    background-color:bisque;
+}
+ div {
+     text-align:center;
+     border: solid red 4px;
+     height:5px;
+     width:100%;
+     background-color: gold;
+     padding: 50px;
+         
+      
+}
+nav1{
+    
+}
+div1{
+    margin-right: 700;
+    border: solid red 2px;
+    height: 490;
+    width:241px;
+    background-color: gold;
+    text-align: center;
+}        
+
+        
+    
+        <div style="text decoration:white;border:solid green 2px;height:500px;width:400px;background-color:pink;margin-top:-495px;float:right;text-align:center">
+            <nav>
+                <a href="#">REFERENCE</a>&nbsp;&nbsp;&nbsp;<br><br><br><br>
+                <a href="#">FORMS</a>&nbsp;&nbsp;&nbsp;<br><br><br><br><br>
+                <a href="#">DOWNLOAD</a>&nbsp;&nbsp;&nbsp;<br><br><br><br><br>
+                <a href="#">DIRECTION</a>&nbsp;&nbsp;&nbsp;<br><br><br><br><br>
+                <a href="#">FEEDBACK</a>&nbsp;&nbsp;&nbsp;<br><br><br><br><br>
+            </nav>
+
+        </div>
+        <div>
+            
+        </div>
+
+    </div>
+</body>
+</html>
